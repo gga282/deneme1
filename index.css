@@ -1,0 +1,118 @@
+#logo{
+    
+    padding: 16px 6px 16px 10px;
+    float: left;
+    height: 100%;
+    margin-top: 1px;
+    width: 137px;
+    outline-offset: -2px;
+}
+
+#intsearch{
+ 
+}
+
+#mrg{
+    padding: 16px 6px 16px 10px;
+    float: left;
+    height: 100%;
+    margin-top: 1px;
+    width: 137px;
+    outline-offset: -2px;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:13px;
+    whitespace:normal;
+}
+#mrg-right{
+    padding: 16px 6px 16px 10px;
+    float:right;
+    height: 100%;
+    margin-top: 1px;
+    width: 137px;
+    outline-offset: -2px;
+    font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:13px
+    
+}
+.container-full {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+
+
+/*#logo{
+    padding:16px 6px 16px 10px;
+    float:left;
+    height:100%;
+    margin-top:1px;
+    width:137px;
+    outline-offset:-2px;
+}
+.mrg{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.dropdown{
+    position: static;
+    display: inline-block;
+
+}
+.dropbtn{
+    position:relative;
+    left:1250px;
+    top:-59px;  
+    background-color:none;
+    color: grey;
+    padding: 1px;
+    font-size: 15px;
+    border:none;
+}
+
+.mrg-right{
+    float:right;
+    margin-block-start:1em;
+    margin-block-end: 1em;
+    margin-inline-start:0px;
+    margin-inline-end: 300px;
+    padding-inline-start: 40px;
+}
+
+.dropdown-content{
+    display: none;
+    position:absolute;
+    background-color:#f1f1f175;
+    min-width: 350px;
+ 
+    z-index: 1;
+    
+
+    
+}
+.dropdown-content a:hover{
+    background-color: rgba(133, 131, 131, 0.847);
+}
+.dropdown:hover .dropdown-content{
+    display:block;
+}
+
+.container-full {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}*/
