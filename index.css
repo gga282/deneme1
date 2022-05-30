@@ -16,7 +16,7 @@
     outline-offset: -2px;
     font-family:Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size:13px;
-    whitespace:normal;
+    white-space:normal;
 }
 #mrg-right{
     padding: 16px 6px 16px 10px;
