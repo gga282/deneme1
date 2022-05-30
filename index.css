@@ -7,11 +7,6 @@
     width: 137px;
     outline-offset: -2px;
 }
-
-#intsearch{
- 
-}
-
 #mrg{
     padding: 16px 6px 16px 10px;
     float: left;
@@ -45,6 +40,7 @@
     margin: 0 auto;
     padding-left:5%;
     padding-right:5%;
+    
 }
 
 .bg-image {
@@ -64,6 +60,7 @@
     margin-top: 37px;
     width: 1000px;
     margin: 0 auto;
+    
 }
 .p{
     padding-top:2px;
@@ -71,14 +68,15 @@
 }
 #click-for{
     color:rgba(68, 96, 156, 0.591);
-    text
 }
+
 .container-photo {
     display: block;
     max-width:100%;
     max-height:100%;
 }
 .mini-logos{
+    margin:auto;
     font-size:15px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:#000;
@@ -90,6 +88,7 @@
     padding-right:60%;
     text-align: center;
     white-space:normal;
+    display:inline;
 }
 .mini-logos2{
     font-size:15px;
